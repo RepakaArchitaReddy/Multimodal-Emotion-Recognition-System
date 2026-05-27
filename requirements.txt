@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+librosa
+matplotlib
+seaborn
+scikit-learn
+streamlit
+jupyter
+notebook
+h5py
